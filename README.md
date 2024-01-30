@@ -1,6 +1,6 @@
 # Spotify Alura Project 👩‍💻
 
-Olá! Este é o projeto desenvolvido durante a Imersão Front-End 2024 da Alura! 🌟
+Olá! Este é um projeto desenvolvido durante a Imersão Front-End 2024 da Alura! 🌟
 
 ![Projeto Spotify](https://github.com/sarahsantos0/spotify/assets/73093949/516af48c-da7b-4d53-b012-e489612d482a)
 
